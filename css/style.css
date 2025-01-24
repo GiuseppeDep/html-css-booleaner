@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* header */
+.header{
+    background-color: rgb(173, 216, 230);
+    padding: 30px 10px;
+}
+
+#header-logo{
+    width: 150px;
+
+}
+
+/* main */
+h1{
+    font-size: 38px;
+    margin-top: 20px;
+}
+
+.autore{
+    color: rgb(133, 133, 133);
+    
+
+}
+
+.data{
+    color: rgb(128, 128, 128);
+    font-size: 7px;
+    margin-bottom: 18px;
+
+
+}
+
+.fonti-photo{
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+
+.strong{
+    background-color: yellow;
+}
+
+.paragrafo{
+    margin-bottom: 25px;
+}
+
+.lista li{
+    margin-left: 20px;
+}
+
+
+
+.colonna-maggiore{
+    width: 50%;
+}
+
+.thead{
+    background-color: rgb(135, 206, 250);
+    color: white;
+}
+
+.riga-dispari{
+    background-color: rgb(211, 211, 211);
+}
+
+.strong-div{
+    color: rgb(48, 48, 131);
+}
+
+.left{
+    margin-left: 20px;
+}
+
+footer{
+    background-color: rgb(45, 45, 144);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
